@@ -4,5 +4,5 @@ metadata:
   name: config
 data:
   config.toml: |
-    name = "<Your Name>"
-    drink = "<Your Favorite Drink>"
+    name = "Adrian"
+    drink = "Beer"
